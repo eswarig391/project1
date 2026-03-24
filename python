@@ -1,1 +1,5 @@
 print("hai hello this is my first project")
+a=5
+b=10
+c=a+b
+print("the value of c is ",c)
