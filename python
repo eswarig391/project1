@@ -3,4 +3,6 @@ a=5
 b=10
 c=a+b
 print("the value of c is ")
+print ("the value of a is")
+
 
