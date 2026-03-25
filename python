@@ -3,5 +3,6 @@ a=5
 b=10
 c=a+b
 d=b-a
+e=a-b
 print("the value of c is ",c)
 print("minus value is:",d)
